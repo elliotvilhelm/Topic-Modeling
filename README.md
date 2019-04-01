@@ -42,6 +42,7 @@ LDA's claim is that each document is a mixture of a small number of topics and t
 
 ## Relevant Links and Resources
 http://langvillea.people.cofc.edu/DISSECTION-LAB/Emmie%27sLSI-SVDModule/p4module.html
+https://multithreaded.stitchfix.com/blog/2016/05/27/lda2vec
 http://lsa.colorado.edu/papers/dp1.LSAintro.pdf
 https://medium.com/nanonets/topic-modeling-with-lsa-psla-lda-and-lda2vec-555ff65b0b05
 https://en.wikipedia.org/wiki/Topic_model
