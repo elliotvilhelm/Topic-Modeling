@@ -37,6 +37,8 @@ In application `observations` represent `words` from documents. The unobserved `
 LDA's claim is that each document is a mixture of a small number of topics and that each word's presence is attributable to one of the documents topics.
 
 
+## Dataset
+https://www.kaggle.com/kevintoms/news-data
 
 
 
